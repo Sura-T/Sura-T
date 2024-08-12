@@ -1,6 +1,6 @@
 # MyProfile
 # 💫 About Me:
-🔭I'm currently working on Frontend.<br>👬I'm looking to collaborate on web development projects<br>😄I'm looking for help with codeforces problem<br>🖥I'm currently learning Software Engineering<br>🤝Ask me about Time Management<br>⚡️Fun fact:The average lifespan of a software engineer's career is estimated to be around 15 years due to the rapid pace of technological advancements and changes in programming languages and frameworks.
+🔭I'm currently working on Web Development.<br>👬I'm looking to collaborate on web development projects<br>😄I'm looking for help with codeforces problem<br>🖥I'm currently learning Software Engineering<br>🤝Ask me about Time Management<br>⚡️Fun fact:The average lifespan of a software engineer's career is estimated to be around 15 years due to the rapid pace of technological advancements and changes in programming languages and frameworks.
 
 
 ## 🌐 Socials:
