@@ -93,8 +93,9 @@
 <br>
 <!-- GitHub Streak Stats -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sura-t&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="sura-t Streak Stats">
+  <img src="https://gitstreak.xyz/api?user=sura-t&theme=dark" alt="GitHub Streak Stats">
 </p>
+
 
 <!-- Twitter Badge -->
 <p align="left"> 
