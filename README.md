@@ -92,9 +92,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sura-t&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff" alt="sura-t"></p>
 <br>
 <!-- GitHub Streak Stats -->
-<p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sura-t"/></a>
-</p>
 
 
 <!-- Twitter Badge -->
