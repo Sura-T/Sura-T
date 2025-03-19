@@ -14,7 +14,7 @@
     <p>📫 How to reach me: <strong><a href="mailto:surafeltakele09@gmail.com">surafeltakele09@gmail.com</a></strong></p>
   </li>
   <li>
-    <p>⚡ Fun fact: Christ and faith are the reasons to live.</p>
+    <p>⚡ Fact: Christ and faith are the reasons to live.</p>
   </li>
 </ul>
 <br>
@@ -93,7 +93,7 @@
 <br>
 <!-- GitHub Streak Stats -->
 <p align="center">
-  <img src="https://gitstreak.xyz/api?user=sura-t&theme=dark" alt="GitHub Streak Stats">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sura-t"/></a>
 </p>
 
 
