@@ -76,7 +76,7 @@
 </p>
 <br>
 <h3>Statistical Data :-</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sura_t&amp;show_icons=true&amp;locale=en&amp;bg_color=0d1117&amp;text_color=ffffff&amp;layout=compact" alt="sura-t" bg_color="#808080/"></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sura-t&amp;show_icons=true&amp;locale=en&amp;bg_color=0d1117&amp;text_color=ffffff&amp;layout=compact" alt="sura-t" bg_color="#808080/"></p>
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sura-t&amp;show_icons=true&amp;locale=en&amp;bg_color=0d1117&amp;text_color=ffffff&amp;repo=convoychat" alt="sura-t"></p>
 <br>
