@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Surafel Takele</h1>
-<h3 align="center">Software Engineering student @ASTU 🌟</h3>
+<h3 align="center">Software Engineer @ASTU 🌟</h3>
 <br>
 <p align="right"></p>
 <h3>Profile Views:</h3> 
